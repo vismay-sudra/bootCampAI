@@ -1,0 +1,10 @@
+SOLID Design Principles
+
+1. The Single Responsibility Principle: Two different processes should not be part of the same function.
+
+2. Open/Closed Principle: New features should be achieved throug addition to an existing program rather than modification of previous functions of the program.
+
+3.Liskov Substitution Principle: If S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering
+                                  any of the desirable properties of that program.
+                                 
+5. Dependency Inversion Principle: Abstractions should not depend on details.
